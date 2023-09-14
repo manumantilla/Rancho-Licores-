@@ -1,0 +1,15 @@
+C:\xampp\htdocs\rancholicores\obj\Debug\net7.0\rancholicores.csproj.AssemblyReference.cache
+C:\xampp\htdocs\rancholicores\obj\Debug\net7.0\rancholicores.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\rancholicores\obj\Debug\net7.0\rancholicores.AssemblyInfoInputs.cache
+C:\xampp\htdocs\rancholicores\obj\Debug\net7.0\rancholicores.AssemblyInfo.cs
+C:\xampp\htdocs\rancholicores\obj\Debug\net7.0\rancholicores.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\rancholicores\bin\Debug\net7.0\rancholicores.exe
+C:\xampp\htdocs\rancholicores\bin\Debug\net7.0\rancholicores.deps.json
+C:\xampp\htdocs\rancholicores\bin\Debug\net7.0\rancholicores.runtimeconfig.json
+C:\xampp\htdocs\rancholicores\bin\Debug\net7.0\rancholicores.dll
+C:\xampp\htdocs\rancholicores\bin\Debug\net7.0\rancholicores.pdb
+C:\xampp\htdocs\rancholicores\obj\Debug\net7.0\rancholicores.dll
+C:\xampp\htdocs\rancholicores\obj\Debug\net7.0\refint\rancholicores.dll
+C:\xampp\htdocs\rancholicores\obj\Debug\net7.0\rancholicores.pdb
+C:\xampp\htdocs\rancholicores\obj\Debug\net7.0\rancholicores.genruntimeconfig.cache
+C:\xampp\htdocs\rancholicores\obj\Debug\net7.0\ref\rancholicores.dll
